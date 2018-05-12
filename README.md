@@ -3,7 +3,7 @@ IPHub is an IP lookup website featuring Proxy/VPN detection
 
 # Installation
 
-npm install request
+npm install request --save
 
 # for what use?
 Real time application are on the rise, and VPN, Proxys bring trolls , spammers and such..
