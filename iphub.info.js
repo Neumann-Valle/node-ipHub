@@ -6,7 +6,7 @@
  * @param {*} x_key
  * @param {*} fn 
  * ip, required
- * x_key, provided when you make an account with ipHub.info 
+ * x_key, required, provided when you make an account with ipHub.info 
  * fn, callback with result from the request true on bad, vpn, proxy
  * Asynchronous function
  * 
