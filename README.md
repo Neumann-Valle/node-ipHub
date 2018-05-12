@@ -7,7 +7,8 @@ npm install request
 
 # usage
 
-```jsIPHub('192.168.1.1', 'your-x-key-here', function( res ){
+```js
+IPHub('192.168.1.1', 'your-x-key-here', function( res ){
 
     // rest of the code here
     // true if vpn, bad ip, proxy
